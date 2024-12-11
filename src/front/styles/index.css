@@ -1,3 +1,12 @@
 /* 
     General Styles used on every website (Don't Repeat Yourself)
 */
+
+.navbar-main {
+    background-color:#4b3331
+}
+.navbar-main .navbar-brand {
+    color: white;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
